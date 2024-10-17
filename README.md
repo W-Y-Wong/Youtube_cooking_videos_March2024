@@ -1,0 +1,1 @@
+<img src="Poster_YoutubeSentiment.png">
